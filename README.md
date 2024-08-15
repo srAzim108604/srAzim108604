@@ -26,7 +26,7 @@
 
 - ⛳ How to reach me **snkazimbd502939@gmail.com**
 
-- 🏆 My experiences [Learner| Youtuber| Web Designer](Learner| Youtuber| Web Designer)
+- 🏆 My experiences → Learner | Youtuber | Web Designer
 
 - 😒I think **I'm so Funny.🤣**
 
