@@ -1,3 +1,5 @@
+![logo](https://github.com/srAzim108604/srAzim108604/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Azim.</h1>
 <h3 align="center">As a Web Designer, I'm proficient.</h3>
 
