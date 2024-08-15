@@ -29,6 +29,8 @@
 - 🏆 My experiences → Learner | Youtuber | Web Designer
 
 - 😒I think **I'm so Funny.🤣**
+<h3 align="left">About Me</h3>
+<p>Hello, I'm Azim a website designer with advanced skills. I appreciate you contacting out to me. <br>Coding is something I adore. This introduced me to the field of programming. May I use this skill <br>for my country</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
